@@ -1,0 +1,12 @@
+#EXTINF:-1 tvg-id="skysportsmainevent.uk" tvg-name="Sky Sports Main Event FHD VIP UK" tvg-logo="https://i.postimg.cc/DzsVY0Zf/Sky-sports-main-event.jpg" group-title="United Kingdom",Sky Sports Main Event FHD VIP UK
+http://mag.you24.online:80/Adilzborci/i5x4yi4klk/692257
+#EXTINF:-1 tvg-id="skysportsmainevent.uk" tvg-name="Sky Sports Main Event HD VIP UK" tvg-logo="https://i.postimg.cc/DzsVY0Zf/Sky-sports-main-event.jpg" group-title="United Kingdom",Sky Sports Main Event HD VIP UK
+http://mag.you24.online:80/Adilzborci/i5x4yi4klk/692258
+#EXTINF:-1 tvg-id="skysportspremiereleague.uk" tvg-name="Sky Sports Premier League FHD VIP UK" tvg-logo="https://i.postimg.cc/JhhKQhRL/sky-sports-premier-league.jpg" group-title="United Kingdom",Sky Sports Premier League FHD VIP UK
+http://mag.you24.online:80/Adilzborci/i5x4yi4klk/692259
+#EXTINF:-1 tvg-id="skysportspremiereleague.uk" tvg-name="Sky Sports Premier League HD VIP UK" tvg-logo="https://i.postimg.cc/JhhKQhRL/sky-sports-premier-league.jpg" group-title="United Kingdom",Sky Sports Premier League HD VIP UK
+http://mag.you24.online:80/Adilzborci/i5x4yi4klk/692260
+#EXTINF:-1 tvg-id="skysportsfootball.uk" tvg-name="Sky Sports Football FHD VIP UK" tvg-logo="https://i.postimg.cc/y6fZN818/sky-sports-football.jpg" group-title="United Kingdom",Sky Sports Football FHD VIP UK
+http://mag.you24.online:80/Adilzborci/i5x4yi4klk/692261
+#EXTINF:-1 tvg-id="skysportsfootball.uk" tvg-name="Sky Sports Football HD VIP UK" tvg-logo="https://i.postimg.cc/y6fZN818/sky-sports-football.jpg" group-title="United Kingdom",Sky Sports Football HD VIP UK
+http://mag.you24.online:80/Adilzborci/i5x4yi4klk/692262

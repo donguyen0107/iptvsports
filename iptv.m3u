@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1,Sky Sports Bundesliga
+http://apbest.re/live/628277105026825/1593574628/98634.ts
+#EXTINF:-1,Sky Sports Main Event
+http://89.45.13.153:25461/play/live.php?mac=00:1A:79:5D:EB:29&stream=1299719&extension=ts&play_token=XnnvGedGed
+#EXTINF:-1,Digi 4k
+http://thespectrummag.sytes.net/play/live.php?mac=00:1A:79:7B:61:99&stream=443338&extension=ts&play_token=f5SxajYgdf
+#EXTINF:-1,V Sports UHD
+http://raptor-tv.com/play/live.php?mac=00:1A:79:73:fa:4e&stream=466358&extension=ts&play_token=6l3mRdMJ9g
+#EXTINF:-1,Canal+ Foot
+http://apbest.re/live/628277105026825/1593574628/75309.ts
+#EXTINF:-1,Premier Hub UHD
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:4F:E5:24&stream=1032518&extension=ts&play_token=23sRdi72eC
+#EXTINF:-1,TF1 UHD
+http://apbest.re/live/18220704922642218/1593574628/99360.ts
+#EXTINF:-1,TRT 4K
+http://apbest.re/live/18220704922642218/1593574628/41016.ts
+#EXTINF:-1,Eleven Sports 4K
+http://apbest.re/live/18220704922642218/1593574628/99164.ts
